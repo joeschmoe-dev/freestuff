@@ -2,26 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//FoodFinder//Calendar//EN
 BEGIN:VEVENT
-UID:06316c95-36d1-4e4f-bc2b-4d219e7c80f8
-DTSTAMP:20260223T193042Z
-DTSTART:20260223T160000Z
-DTEND:20260223T220000Z
-SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
-LOCATION:Office of Sustainability
-END:VEVENT
-BEGIN:VEVENT
-UID:2e596612-01e4-49fe-8875-1aa2e1dbbe57
-DTSTAMP:20260223T193042Z
-DTSTART:20260223T220000Z
-DTEND:20260223T230000Z
-SUMMARY:Free Food @ Dip, Dunk, & De-Stress
-DESCRIPTION:Fresh cookies are waiting for you in the Spotlight Room at the Bone Student Center!! Come grab one and take a sweet study break!
-LOCATION:Bone Student Center Spotlight Room 
-END:VEVENT
-BEGIN:VEVENT
-UID:319f956a-ad8b-43c6-ab16-033f593df0aa
-DTSTAMP:20260223T193042Z
+UID:5c3104ec-a7c8-4f72-919c-ace3bee651a2
+DTSTAMP:20260223T234209Z
 DTSTART:20260225T000000Z
 DTEND:20260225T020000Z
 SUMMARY:Free Food/Stuff @ Paint Your Pet - RSVP FULL, WAITLIST ONLY
@@ -29,8 +11,8 @@ DESCRIPTION:Paint a custom paint-by-number of your favorite furry friend! No pet
 LOCATION:Brown Ballroom, Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:1e2e0fe7-6fdc-4c20-8b69-c975d3924d7c
-DTSTAMP:20260223T193042Z
+UID:6b5c22f9-6c36-45bc-8699-8b3d41a84cf8
+DTSTAMP:20260223T234209Z
 DTSTART:20260225T170000Z
 DTEND:20260225T200000Z
 SUMMARY:Free Stuff @ GSpot
@@ -38,8 +20,8 @@ DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Frida
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:80770a4f-8c16-40f6-ac2d-d207848a86aa
-DTSTAMP:20260223T193042Z
+UID:d36de279-0d89-4c03-899f-54cf51e517d7
+DTSTAMP:20260223T234209Z
 DTSTART:20260225T160000Z
 DTEND:20260225T220000Z
 SUMMARY:Free Stuff @ The Share Shop
@@ -47,8 +29,8 @@ DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free 
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:a272bc9f-4fac-4ad3-8027-752ae47d0efb
-DTSTAMP:20260223T193042Z
+UID:e0981326-d630-4992-819e-a47263430976
+DTSTAMP:20260223T234209Z
 DTSTART:20260226T180000Z
 DTEND:20260226T193000Z
 SUMMARY:Free Food @ Creative Practice Lab: Lunch Day with Artist Dario Robleto
@@ -56,8 +38,8 @@ DESCRIPTION:Join us at University Galleries for the inaugural semester of the Cr
 LOCATION:University Galleries
 END:VEVENT
 BEGIN:VEVENT
-UID:a3c29bb3-f58f-4d36-8c1d-a64e3cf9e0d1
-DTSTAMP:20260223T193042Z
+UID:691de027-530b-45f2-8949-bda1ee7089e6
+DTSTAMP:20260223T234209Z
 DTSTART:20260226T233000Z
 DTEND:20260227T023000Z
 SUMMARY:Free Food/Stuff @ Dinner &  A Movie : Wicked: For Good
@@ -65,8 +47,8 @@ DESCRIPTION:Enjoy dinner, a backstage tour of Braden Auditorium, and Wicked: For
 LOCATION:Braden Auditorium, Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:5a396838-2afa-421d-bc59-0bb791a44519
-DTSTAMP:20260223T193042Z
+UID:90b27f1f-0e5d-4e6e-b3bf-27d038b086eb
+DTSTAMP:20260223T234209Z
 DTSTART:20260227T180000Z
 DTEND:20260227T190000Z
 SUMMARY:Free Food @ Conversations Café
@@ -74,8 +56,8 @@ DESCRIPTION:Conversations Café 🕛 12:00 – 1:00 PM 📍 OIE Lobby, 2nd Floor
 LOCATION:Fell Hall, Second Floor Lobby
 END:VEVENT
 BEGIN:VEVENT
-UID:f64b41b1-9c00-4b4e-b85c-ec0a0454a67b
-DTSTAMP:20260223T193042Z
+UID:d814ad0e-31e8-46e2-8773-75e9f1c05a8b
+DTSTAMP:20260223T234209Z
 DTSTART:20260227T170000Z
 DTEND:20260227T200000Z
 SUMMARY:Free Stuff @ GSpot
@@ -83,8 +65,8 @@ DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Frida
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:9fb16914-143c-4abf-a69b-d28dc0f191ce
-DTSTAMP:20260223T193042Z
+UID:dd2c6cc7-26fa-4d09-a263-67e35bc873e4
+DTSTAMP:20260223T234209Z
 DTSTART:20260227T160000Z
 DTEND:20260227T220000Z
 SUMMARY:Free Stuff @ The Share Shop
@@ -92,8 +74,8 @@ DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free 
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:28e76d4c-1a88-4e3a-ab01-8ae25c7b105a
-DTSTAMP:20260223T193042Z
+UID:30a4fe15-e213-4f00-8078-145a09d2998c
+DTSTAMP:20260223T234209Z
 DTSTART:20260302T160000Z
 DTEND:20260302T220000Z
 SUMMARY:Free Stuff @ The Share Shop
@@ -101,8 +83,8 @@ DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free 
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:f3ce202b-d10c-4de3-a191-2baa7e2d9da9
-DTSTAMP:20260223T193042Z
+UID:c031577a-5489-4ccb-a6f4-6157278c8ad8
+DTSTAMP:20260223T234209Z
 DTSTART:20260302T220000Z
 DTEND:20260302T230000Z
 SUMMARY:Free Stuff @ Coffeehouse Corner - Mini Diamond Painting
@@ -110,8 +92,8 @@ DESCRIPTION:Visit the stage at Starbucks in the Bone Student Center for crafts! 
 LOCATION:Starbucks Stage in Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:93dd4251-da48-4c4d-9962-f0fd502db070
-DTSTAMP:20260223T193042Z
+UID:3dfe4c49-1d28-4c02-b64b-6f9b02b2c012
+DTSTAMP:20260223T234209Z
 DTSTART:20260302T230000Z
 DTEND:20260303T010000Z
 SUMMARY:Free Food/Stuff @ Night Against Procrastination
@@ -119,8 +101,8 @@ DESCRIPTION:We’re back tonight—taking on procrastination together. Join us t
 LOCATION:MCC
 END:VEVENT
 BEGIN:VEVENT
-UID:b9a644c4-dbc1-4f96-a91c-4f2db0ed1bb2
-DTSTAMP:20260223T193042Z
+UID:5228932d-cbdc-4eb6-863e-1462e98f9822
+DTSTAMP:20260223T234209Z
 DTSTART:20260302T230000Z
 DTEND:20260303T010000Z
 SUMMARY:Free Stuff @ Book Lamp STEAM Social
@@ -128,8 +110,8 @@ DESCRIPTION:Join us at the STEM Hub to make a free book lamp!
 LOCATION:Center for Mathematics, Science, and Technology 
 END:VEVENT
 BEGIN:VEVENT
-UID:fef3e118-08c5-4fba-8b92-2dcf553d422f
-DTSTAMP:20260223T193042Z
+UID:c322dd7f-226b-492e-9a43-a0c5b32de5a3
+DTSTAMP:20260223T234209Z
 DTSTART:20260304T010000Z
 DTEND:20260304T020000Z
 SUMMARY:Free Food @ March Professional Development Meeting
@@ -137,8 +119,8 @@ DESCRIPTION:Join us in Schroeder 138 at 7 pm to hear Professor Kyle Miller disc
 LOCATION:Schroeder 138
 END:VEVENT
 BEGIN:VEVENT
-UID:98583e73-21c8-4e4c-9c09-1266c8bb4478
-DTSTAMP:20260223T193042Z
+UID:bd74fe3b-08b4-433e-b6ce-99b106a52282
+DTSTAMP:20260223T234209Z
 DTSTART:20260304T170000Z
 DTEND:20260304T200000Z
 SUMMARY:Free Stuff @ GSpot
@@ -146,8 +128,8 @@ DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Frida
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:8e55a2cc-156a-4397-8dcf-67dbe436fcdc
-DTSTAMP:20260223T193042Z
+UID:7b4c95bd-a282-4206-b2d4-ffc11454073a
+DTSTAMP:20260223T234209Z
 DTSTART:20260304T160000Z
 DTEND:20260304T220000Z
 SUMMARY:Free Stuff @ The Share Shop
@@ -155,8 +137,8 @@ DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free 
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:f67a3bfb-0453-4937-ba61-988aa729442a
-DTSTAMP:20260223T193042Z
+UID:d5c3e104-070e-41f7-af07-63ce42f0f221
+DTSTAMP:20260223T234209Z
 DTSTART:20260305T003000Z
 DTEND:20260305T013000Z
 SUMMARY:Free Food @ ACM - Meeting #7, Movie Night: The Internet's Own Boy (2014)
@@ -164,8 +146,8 @@ DESCRIPTION:Join the ACM for a movie night, where we'll be watching "The Intern
 LOCATION:Julian Hall, Room 31
 END:VEVENT
 BEGIN:VEVENT
-UID:41de9a34-c724-4436-bd23-51550efc34a0
-DTSTAMP:20260223T193042Z
+UID:0a78a34d-d461-4aa0-8321-e407b7f984aa
+DTSTAMP:20260223T234209Z
 DTSTART:20260305T170000Z
 DTEND:20260305T200000Z
 SUMMARY:Free Food @ Multicultural Center: Pancakes and Pajamas
@@ -173,12 +155,21 @@ DESCRIPTION:We're inviting students to wear their coziest pajamas and stop by th
 LOCATION:Multicultural Center
 END:VEVENT
 BEGIN:VEVENT
-UID:dc2446c8-5052-49fe-842a-2bc0b053f5e8
-DTSTAMP:20260223T193042Z
+UID:81dd05ed-7cf8-429d-b059-ce67358c67ec
+DTSTAMP:20260223T234209Z
 DTSTART:20260306T170000Z
 DTEND:20260306T200000Z
 SUMMARY:Free Stuff @ GSpot
 DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Friday from 11am-2pm. We provide free resources, including wellness products and stationary supplies!
 LOCATION:Watterson Dining Commons
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbe5dd7-a441-4ab2-9085-947d19fd2075
+DTSTAMP:20260223T234209Z
+DTSTART:20260316T150000Z
+DTEND:20260316T210000Z
+SUMMARY:Free Stuff @ The Share Shop
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+LOCATION:Office of Sustainability
 END:VEVENT
 END:VCALENDAR
