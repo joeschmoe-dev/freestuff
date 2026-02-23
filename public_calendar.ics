@@ -2,243 +2,181 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//FoodFinder//Calendar//EN
 BEGIN:VEVENT
-UID:c6dd94ae-8e73-4602-9dd6-a0bf32190d3a
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-23T16:00:00+00:00
-DTEND:2026-02-23T22:00:00+00:00
+UID:67d83a93-f053-4191-b10b-9a0e585e2de0
+DTSTAMP:20260223T192313Z
+DTSTART:20260223T100000Z
+DTEND:20260223T160000Z
 SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!
-
-The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:0ebb2a27-a4d1-4f36-ac08-457d912abbae
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-23T22:00:00+00:00
-DTEND:2026-02-23T23:00:00+00:00
+UID:ab80609a-a9fb-410a-bcfb-0d5e154aefde
+DTSTAMP:20260223T192313Z
+DTSTART:20260223T160000Z
+DTEND:20260223T170000Z
 SUMMARY:Free Food @ Dip, Dunk, & De-Stress
 DESCRIPTION:Fresh cookies are waiting for you in the Spotlight Room at the Bone Student Center!! Come grab one and take a sweet study break!
 LOCATION:Bone Student Center Spotlight Room 
 END:VEVENT
 BEGIN:VEVENT
-UID:f35d8549-fc36-4d97-8ab5-e75dfd579467
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-25T00:00:00+00:00
-DTEND:2026-02-25T02:00:00+00:00
+UID:e19b4bdc-ed55-4d4a-856d-783aef4e78f6
+DTSTAMP:20260223T192313Z
+DTSTART:20260224T180000Z
+DTEND:20260224T200000Z
 SUMMARY:Free Food/Stuff @ Paint Your Pet - RSVP FULL, WAITLIST ONLY
-DESCRIPTION:Paint a custom paint-by-number of your favorite furry friend! No pet, no problem! Redbirds without pets may participate and paint Pawfficer Korg or Reggie!
-
-Limited spots available. Participants MUST RSVP to this event AND submit a photo by February 6 to participate. Once you have RSVP'd, you will receive an email with a link to submit your photo. Both must be complete by February 6. 
-
-This event is hosted by Event Management, Dining, and Hospitality and Redbird Well. 
-
-If you need accommodation to fully participate in this program/event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
+DESCRIPTION:Paint a custom paint-by-number of your favorite furry friend! No pet, no problem! Redbirds without pets may participate and paint Pawfficer Korg or Reggie!  Limited spots available. Participants MUST RSVP to this event AND submit a photo by February 6 to participate. Once you have RSVP'd, you will receive an email with a link to submit your photo. Both must be complete by February 6.   This event is hosted by Event Management, Dining, and Hospitality and Redbird Well.   If you need accommodation to fully participate in this program/event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
 LOCATION:Brown Ballroom, Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:ce0d8e75-0f9e-41fc-b39c-eecac9599dae
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-25T17:00:00+00:00
-DTEND:2026-02-25T20:00:00+00:00
+UID:90b9e49b-fc42-4db8-be63-62345c2c94ec
+DTSTAMP:20260223T192313Z
+DTSTART:20260225T110000Z
+DTEND:20260225T140000Z
 SUMMARY:Free Stuff @ GSpot
 DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Friday from 11am-2pm. We provide free resources, including wellness products and stationary supplies!
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:3933afea-e523-424a-aeab-d25652cf62b5
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-25T16:00:00+00:00
-DTEND:2026-02-25T22:00:00+00:00
+UID:350506be-ab12-4960-ac7b-9a70de5be5d0
+DTSTAMP:20260223T192313Z
+DTSTART:20260225T100000Z
+DTEND:20260225T160000Z
 SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!
-
-The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:ec68795e-beee-484c-b8c0-7b6a837b9c55
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-26T18:00:00+00:00
-DTEND:2026-02-26T19:30:00+00:00
+UID:cdd0bc23-bf5a-49e5-a7b9-fc4a9aeb824a
+DTSTAMP:20260223T192313Z
+DTSTART:20260226T120000Z
+DTEND:20260226T133000Z
 SUMMARY:Free Food @ Creative Practice Lab: Lunch Day with Artist Dario Robleto
-DESCRIPTION:Join us at University Galleries for the inaugural semester of the Creative Practice Lab (CPL)! Socialize with other students and arts professionals; participate in professional development activities; and help shape future semesters of the group. Free food at all meetings and free to participate. Register for each event at: https://linktr.ee/universitygalleriesisu
-
- 
-
-At this event, lunch with internationally recognized artist Dario Robleto. Join other students and University Galleries’ team for a casual lunch and conversation with the artist. Robleto will be in town for a film screening on February 24 and lecture on February 25.
-
- 
-
-**Registration is limited to 20 currently enrolled ISU students. The registration form will be closed once capacity has been reached. If you have any questions, please contact Gallery@IllinoisState.edu.
+DESCRIPTION:Join us at University Galleries for the inaugural semester of the Creative Practice Lab (CPL)! Socialize with other students and arts professionals; participate in professional development activities; and help shape future semesters of the group. Free food at all meetings and free to participate. Register for each event at: https://linktr.ee/universitygalleriesisu     At this event, lunch with internationally recognized artist Dario Robleto. Join other students and University Galleries’ team for a casual lunch and conversation with the artist. Robleto will be in town for a film screening on February 24 and lecture on February 25.     **Registration is limited to 20 currently enrolled ISU students. The registration form will be closed once capacity has been reached. If you have any questions, please contact Gallery@IllinoisState.edu.
 LOCATION:University Galleries
 END:VEVENT
 BEGIN:VEVENT
-UID:c5e6fade-ccf8-4cb5-bb94-a5df1f2c6a65
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-26T23:30:00+00:00
-DTEND:2026-02-27T02:30:00+00:00
+UID:e68a4bed-2e8e-4dcb-be1f-d9c1e71435e1
+DTSTAMP:20260223T192313Z
+DTSTART:20260226T173000Z
+DTEND:20260226T203000Z
 SUMMARY:Free Food/Stuff @ Dinner &  A Movie : Wicked: For Good
-DESCRIPTION:Enjoy dinner, a backstage tour of Braden Auditorium, and Wicked: For Good!
-
-Limit 150 participants. Admission is first come, first serve. No RSVP required. RSVP does not guarantee participation.
-
-Doors Open & Optional Tour of Braden Auditorium Backstage: 5:30 p.m.
-
-Dinner Served & Movie Begins: 6 P.M.
-
-Menu: Baked Potato Bar
-
-If you need accommodation to fully participate in this program/event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
+DESCRIPTION:Enjoy dinner, a backstage tour of Braden Auditorium, and Wicked: For Good!  Limit 150 participants. Admission is first come, first serve. No RSVP required. RSVP does not guarantee participation.  Doors Open & Optional Tour of Braden Auditorium Backstage: 5:30 p.m.  Dinner Served & Movie Begins: 6 P.M.  Menu: Baked Potato Bar  If you need accommodation to fully participate in this program/event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
 LOCATION:Braden Auditorium, Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:10e7ea63-053f-49e3-b1f9-325cfc57ccc0
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-27T18:00:00+00:00
-DTEND:2026-02-27T19:00:00+00:00
+UID:a4109fd1-aca2-4ec2-bad0-52c5cd677a67
+DTSTAMP:20260223T192313Z
+DTSTART:20260227T120000Z
+DTEND:20260227T130000Z
 SUMMARY:Free Food @ Conversations Café
-DESCRIPTION:Conversations Café
-🕛 12:00 – 1:00 PM
-📍 OIE Lobby, 2nd Floor Fell Hall
-
-Join us for the Conversations Café, a cozy, coffee shop–style gathering hosted by the OIE I-House and Academic Teams. This program offers a welcoming space for students to connect, unwind, and engage in global conversations.
-
-Enjoy:
-✅ Coffee, tea, and snacks from a featured country
-✅ Board games and friendly, global conversations
-✅ A craft table and stress-relief activities
-✅ A calm, inclusive atmosphere
-
-Whether you want to practice your English, learn about different cultures, meet new people, or take a break from a busy week, this is the perfect place to relax and recharge.
-
-All students are welcome—no RSVP necessary!
+DESCRIPTION:Conversations Café 🕛 12:00 – 1:00 PM 📍 OIE Lobby, 2nd Floor Fell Hall  Join us for the Conversations Café, a cozy, coffee shop–style gathering hosted by the OIE I-House and Academic Teams. This program offers a welcoming space for students to connect, unwind, and engage in global conversations.  Enjoy: ✅ Coffee, tea, and snacks from a featured country ✅ Board games and friendly, global conversations ✅ A craft table and stress-relief activities ✅ A calm, inclusive atmosphere  Whether you want to practice your English, learn about different cultures, meet new people, or take a break from a busy week, this is the perfect place to relax and recharge.  All students are welcome—no RSVP necessary!
 LOCATION:Fell Hall, Second Floor Lobby
 END:VEVENT
 BEGIN:VEVENT
-UID:e70fa2d9-5b20-402e-b94b-c0cfdaa1e5fb
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-27T17:00:00+00:00
-DTEND:2026-02-27T20:00:00+00:00
+UID:79fd6c8a-8179-4a3b-8d73-5c9d3ae162e8
+DTSTAMP:20260223T192313Z
+DTSTART:20260227T110000Z
+DTEND:20260227T140000Z
 SUMMARY:Free Stuff @ GSpot
 DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Friday from 11am-2pm. We provide free resources, including wellness products and stationary supplies!
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:f0854aaa-e2f2-4b08-86ce-bdd365bc4260
-DTSTAMP:20260223T191723Z
-DTSTART:2026-02-27T16:00:00+00:00
-DTEND:2026-02-27T22:00:00+00:00
+UID:ff28481a-dc57-4128-bbe3-9e53ff432320
+DTSTAMP:20260223T192313Z
+DTSTART:20260227T100000Z
+DTEND:20260227T160000Z
 SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!
-
-The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc16ebd-9a8c-43a9-b0e8-f4d2489fa0fc
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-02T16:00:00+00:00
-DTEND:2026-03-02T22:00:00+00:00
+UID:1a3852df-344d-449a-bcab-0e67ee0815a4
+DTSTAMP:20260223T192313Z
+DTSTART:20260302T100000Z
+DTEND:20260302T160000Z
 SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!
-
-The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:2e936a29-2f4b-48ea-8ecb-b753ff870b9a
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-02T22:00:00+00:00
-DTEND:2026-03-02T23:00:00+00:00
+UID:1de36e7d-0ca7-42fe-a5a7-2bb79c20b5bf
+DTSTAMP:20260223T192313Z
+DTSTART:20260302T160000Z
+DTEND:20260302T170000Z
 SUMMARY:Free Stuff @ Coffeehouse Corner - Mini Diamond Painting
-DESCRIPTION:Visit the stage at Starbucks in the Bone Student Center for crafts!
-
-Craft: Mini Diamond Painting
-
-This event is sponsored by Event Management, Dining, and Hospitality and Redbird Well. If you need accommodation to fully participate in this event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
+DESCRIPTION:Visit the stage at Starbucks in the Bone Student Center for crafts!  Craft: Mini Diamond Painting  This event is sponsored by Event Management, Dining, and Hospitality and Redbird Well. If you need accommodation to fully participate in this event, please contact Event Management, Dining, and Hospitality at 309-438-8351 or EMDH@IllinoisState.edu. Please allow sufficient time to arrange the accommodation.
 LOCATION:Starbucks Stage in Bone Student Center
 END:VEVENT
 BEGIN:VEVENT
-UID:0ac07c16-acf5-422b-bc3a-7d2de17d9703
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-02T23:00:00+00:00
-DTEND:2026-03-03T01:00:00+00:00
+UID:c0666e98-bb99-4ee9-a2a1-9c8c7f7c95fe
+DTSTAMP:20260223T192313Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
 SUMMARY:Free Food/Stuff @ Night Against Procrastination
 DESCRIPTION:We’re back tonight—taking on procrastination together. Join us to prep for an exam, complete assignments, or get ahead on your work.
 LOCATION:MCC
 END:VEVENT
 BEGIN:VEVENT
-UID:5dbeda9a-3498-44ea-afdf-84cdf09bf42e
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-02T23:00:00+00:00
-DTEND:2026-03-03T01:00:00+00:00
+UID:a3e7d76b-a026-4d03-86a8-1ebcc033a99c
+DTSTAMP:20260223T192313Z
+DTSTART:20260302T170000Z
+DTEND:20260302T190000Z
 SUMMARY:Free Stuff @ Book Lamp STEAM Social
 DESCRIPTION:Join us at the STEM Hub to make a free book lamp!
 LOCATION:Center for Mathematics, Science, and Technology 
 END:VEVENT
 BEGIN:VEVENT
-UID:1df99a8d-df02-49e3-ae61-fc2b3753f1ca
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-04T01:00:00+00:00
-DTEND:2026-03-04T02:00:00+00:00
+UID:f8569f3e-841f-45ec-ba7a-d1079b9a1fe1
+DTSTAMP:20260223T192313Z
+DTSTART:20260303T190000Z
+DTEND:20260303T200000Z
 SUMMARY:Free Food @ March Professional Development Meeting
 DESCRIPTION:Join us in Schroeder 138 at 7 pm to hear Professor Kyle Miller discuss vicarious trauma!
 LOCATION:Schroeder 138
 END:VEVENT
 BEGIN:VEVENT
-UID:203e9b8b-e4a1-4458-9659-78e820fe8f9b
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-04T17:00:00+00:00
-DTEND:2026-03-04T20:00:00+00:00
+UID:e66d14ab-043f-4531-a21f-f745f2741eb3
+DTSTAMP:20260223T192313Z
+DTSTART:20260304T110000Z
+DTEND:20260304T140000Z
 SUMMARY:Free Stuff @ GSpot
 DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Friday from 11am-2pm. We provide free resources, including wellness products and stationary supplies!
 LOCATION:Watterson Dining Commons
 END:VEVENT
 BEGIN:VEVENT
-UID:1edc3132-61dd-4ad1-ac60-a7894e92d179
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-04T16:00:00+00:00
-DTEND:2026-03-04T22:00:00+00:00
+UID:39741d61-b918-4371-b850-5abf365e5f08
+DTSTAMP:20260223T192313Z
+DTSTART:20260304T100000Z
+DTEND:20260304T160000Z
 SUMMARY:Free Stuff @ The Share Shop
-DESCRIPTION:Grab what you need at the Share Shop!
-
-The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
+DESCRIPTION:Grab what you need at the Share Shop!  The ISU Share Shop is a free resource-sharing store located in the Office of Sustainability at 305 N. School Street. Students can shop for a variety of FREE items such as clothing, shoes, accessories, small household items, textbooks, and more.
 LOCATION:Office of Sustainability
 END:VEVENT
 BEGIN:VEVENT
-UID:1ab5f782-8fcf-4a3e-908d-5090d5d3a9ea
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-05T00:30:00+00:00
-DTEND:2026-03-05T01:30:00+00:00
+UID:b7e618b8-50ed-4a5c-8970-eb11be1cb2b4
+DTSTAMP:20260223T192313Z
+DTSTART:20260304T183000Z
+DTEND:20260304T193000Z
 SUMMARY:Free Food @ ACM - Meeting #7, Movie Night: The Internet's Own Boy (2014)
-DESCRIPTION:Join the ACM for a movie night, where we'll be watching "The Internet's Own Boy (2014)", a documentary about programming prodigy and information activist Aaron Swartz. *Note: An RSVP is required, for pizza ordering purposes.
-
-Movie Description: "He helped develop the Internet Protocol RSS and was a co-founder of Reddit. Chronicling his pioneering efforts crusading for open access and free speech and the resulting legal nightmare and tragedy that ensued, The Internet's Own Boy is a dynamic and moving portrait of a brilliant tech millionaire who renounced the values of Silicon Valley startup culture and used technology to tirelessly fight for social justice, no matter what the cost."
-
-Perks:
-
-- Fun Technology Movie
-
-- Pizza
-
-- ACM
+DESCRIPTION:Join the ACM for a movie night, where we'll be watching "The Internet's Own Boy (2014)", a documentary about programming prodigy and information activist Aaron Swartz. *Note: An RSVP is required, for pizza ordering purposes.  Movie Description: "He helped develop the Internet Protocol RSS and was a co-founder of Reddit. Chronicling his pioneering efforts crusading for open access and free speech and the resulting legal nightmare and tragedy that ensued, The Internet's Own Boy is a dynamic and moving portrait of a brilliant tech millionaire who renounced the values of Silicon Valley startup culture and used technology to tirelessly fight for social justice, no matter what the cost."  Perks:  - Fun Technology Movie  - Pizza  - ACM
 LOCATION:Julian Hall, Room 31
 END:VEVENT
 BEGIN:VEVENT
-UID:b8ce9a8d-186e-4d4c-8c60-2c577cd1a00f
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-05T17:00:00+00:00
-DTEND:2026-03-05T20:00:00+00:00
+UID:ef18b0f2-9063-4da8-8235-48c866a57217
+DTSTAMP:20260223T192313Z
+DTSTART:20260305T110000Z
+DTEND:20260305T140000Z
 SUMMARY:Free Food @ Multicultural Center: Pancakes and Pajamas
 DESCRIPTION:We're inviting students to wear their coziest pajamas and stop by the MCC for a light breakfast bar featuring pancakes, waffles, fruit, coffee and more. The goal is to promote comfort, self-care, and de-stressing during midterms.
 LOCATION:Multicultural Center
 END:VEVENT
 BEGIN:VEVENT
-UID:6802bf05-85c3-4559-bd7d-b644e637df38
-DTSTAMP:20260223T191723Z
-DTSTART:2026-03-06T17:00:00+00:00
-DTEND:2026-03-06T20:00:00+00:00
+UID:39ebd604-50f6-4304-9279-8cd61c333af4
+DTSTAMP:20260223T192313Z
+DTSTART:20260306T110000Z
+DTEND:20260306T140000Z
 SUMMARY:Free Stuff @ GSpot
 DESCRIPTION:Our wellness gazebo will be up and running every Wednesday and Friday from 11am-2pm. We provide free resources, including wellness products and stationary supplies!
 LOCATION:Watterson Dining Commons
